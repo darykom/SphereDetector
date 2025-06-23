@@ -36,6 +36,8 @@ SphereDetector/
 │   ├── SphereDetector.pdf  
 │   └── ClassDiagram.pdf  
 │  
+├── outputs/  some images saved manually by OpenCV window  
+│  
 ├── requirements.txt  
 └── README.md  
 
