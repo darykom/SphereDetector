@@ -5,7 +5,7 @@
 
 ## Description
 
-This Python project implements a system for the accurate detection and estimation of a sphere in digital images (a first step for a photometric-stereo application).  
+This Python project implements a system for the accurate detection and estimation of a sphere in digital images (a first step for a photometric-stereo application, where the sphere acts as a calibration device).  
 It uses a multi-resolution approach (Gaussian pyramid) and several robust optimization techniques to refine the sphere localization and parameters, starting from an initialization based on the Hough transform for circles.
 Mathematical explanation is provided in ./docs/SphereDetector.pdf, while UML class diagram is available in ClassDiagram.pdf.
 
