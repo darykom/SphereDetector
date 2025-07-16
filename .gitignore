@@ -3,3 +3,5 @@ __pycache__/
 
 # Compiled Python files
 *.pyc
+
+.spyproject/
